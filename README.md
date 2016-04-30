@@ -15,6 +15,7 @@ you do during your year? Help us out by submitting a pull request.
 Table of Contents
 ============
 
+* [2016-2017 Academic Year](2016-2017.md)
 * [2015-2016 Academic Year](2015-2016.md)
 * [2014-2015 Academic Year](2014-2015.md)
 * [2013-2014 Academic Year](2013-2014.md)
